@@ -12,8 +12,8 @@
   --border: #334155;
   --text: #f8fafc;
   --text-muted: #cbd5e1;
-  --primary: #10b981;
-  --primary-hover: #059669;
+  --primary: #9b1c1c;
+  --primary-hover: #7f1d1d;
   --danger: #ef4444;
   --danger-hover: #dc2626;
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
@@ -130,7 +130,7 @@ p {
 .search-form input:focus,
 .filters-bar select:focus {
   border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+  box-shadow: 0 0 0 3px rgba(155, 28, 28, 0.2);
 }
 
 .search-form button,
@@ -286,8 +286,8 @@ p {
 
 .hero-badge {
   display: inline-block;
-  background: rgba(16, 185, 129, 0.15);
-  color: #a7f3d0;
+  background: rgba(155, 28, 28, 0.15);
+  color: #fca5a5;
   padding: 0.45rem 0.8rem;
   border-radius: 999px;
   font-size: 0.9rem;
@@ -440,7 +440,7 @@ p {
 }
 
 .gallery-thumb.active img {
-  border-color: rgba(16, 185, 129, 0.9);
+  border-color: rgba(220, 80, 80, 0.9);
 }
 
 .gallery-thumb:hover img {
@@ -488,7 +488,7 @@ p {
   padding: 0;
   border-radius: 12px;
   border: none;
-  background: rgba(16, 185, 129, 0.95);
+  background: rgba(155, 28, 28, 0.95);
   color: white;
   font-size: 1.9rem;
   font-weight: 700;
