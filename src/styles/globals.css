@@ -5,13 +5,13 @@
 }
 
 :root {
-  --bg: #0f172a;
-  --bg-secondary: #111827;
-  --card: #1e293b;
-  --card-hover: #273449;
-  --border: #334155;
+  --bg: #110808;
+  --bg-secondary: #1a0d0d;
+  --card: #1f1010;
+  --card-hover: #2d1515;
+  --border: #4a1c1c;
   --text: #f8fafc;
-  --text-muted: #cbd5e1;
+  --text-muted: #e2c9c9;
   --primary: #9b1c1c;
   --primary-hover: #7f1d1d;
   --danger: #ef4444;
@@ -27,7 +27,7 @@ html {
 
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(to bottom, #0f172a, #111827);
+  background: linear-gradient(to bottom, #110808, #1a0d0d);
   color: var(--text);
   min-height: 100vh;
   line-height: 1.5;
@@ -74,7 +74,7 @@ p {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background: rgba(15, 23, 42, 0.95);
+  background: rgba(17, 8, 8, 0.95);
   border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
@@ -116,7 +116,7 @@ p {
   padding: 0.9rem 1rem;
   border: 1px solid var(--border);
   border-radius: 10px;
-  background: #0b1220;
+  background: #0d0606;
   color: var(--text);
   outline: none;
   transition: border-color var(--transition), box-shadow var(--transition), background var(--transition);
@@ -274,7 +274,7 @@ p {
 .hero-content,
 .hero-card,
 .info-card {
-  background: rgba(30, 41, 59, 0.9);
+  background: rgba(31, 16, 16, 0.9);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
