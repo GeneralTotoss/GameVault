@@ -39,16 +39,16 @@ Le frontend est déployé sur Vercel et le backend sur Render.
 
 ## Liens
 
-- **Application en ligne** : https://game-vault-indol.vercel.app/
-- **Répertoire GitHub** : https://github.com/GeneralTotoss/GameVault
+- **Application en ligne** : https://totogames-indol.vercel.app/
+- **Répertoire GitHub** : https://github.com/GeneralTotoss/TotoGames
 - **Backend Render** : https://gamevault-u3dn.onrender.com/api/games
 
 ## Installation locale
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/GeneralTotoss/GameVault
-cd GameVault
+git clone https://github.com/GeneralTotoss/TotoGames
+cd totogames
 ```
 
 ### 2. Installer les dépendances du frontend
@@ -99,7 +99,7 @@ npm run dev
 ## Structure du projet
 
 ```bash
-GameVault/
+Totogames/
 ├── public/
 ├── src/
 ├── server/
