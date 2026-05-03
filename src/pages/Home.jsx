@@ -8,7 +8,7 @@ function Home() {
           <p className="hero-badge">Catalogue gaming interactif</p>
           <h1>Découvre, explore et sauvegarde tes jeux préférés</h1>
           <p className="hero-text">
-            GameVault te permet de parcourir des centaines de jeux vidéo,
+            TotoGames te permet de parcourir des centaines de jeux vidéo,
             consulter leurs détails, effectuer des recherches et créer ta
             propre liste de favoris.
           </p>

@@ -1,6 +1,6 @@
-# GameVault
+# TotoGames
 
-GameVault est une application web permettant de découvrir, rechercher et consulter des jeux vidéo à partir de l’API RAWG.  
+TotoGames est une application web permettant de découvrir, rechercher et consulter des jeux vidéo à partir de l’API RAWG.  
 Le projet permet aussi d’afficher les détails d’un jeu, ses captures d’écran, ainsi que de gérer une liste de favoris.
 
 ## Aperçu

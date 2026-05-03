@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link to="/" className="logo">
-        GameVault
+        TotoGames
       </Link>
 
       <div className="nav-links">
